@@ -1,6 +1,8 @@
-﻿__pycache__/
-*.pyc
-*.pyo
-
-~$*
-*.tmp
+﻿db.sqlite3
+*.docx
+*.pdf
+__pycache__/
+*.py[cod]
+*.class
+.vscode/
+~*
